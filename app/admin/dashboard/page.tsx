@@ -68,6 +68,7 @@ export default function AdminDashboard() {
   }, [router])
 
   const categories = [
+    { value: "SOON", label: "SOON" },
     { value: "robot", label: "Robot" },
     { value: "boneka", label: "Boneka" },
     { value: "lego", label: "Lego" },
