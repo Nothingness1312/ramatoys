@@ -371,7 +371,7 @@ export default function HomePage() {
             <h4 className="text-xl font-bold">Rama Toys Center</h4>
           </div>
           <p className="text-purple-200 mb-4">Mainan Berkualitas untuk Masa Depan Cerah Si Kecil</p>
-          <p className="text-sm text-purple-300">© 2024 Rama Toys Center. All rights reserved.</p>
+          <p className="text-sm text-purple-300">.</p>
         </div>
       </footer>
 
