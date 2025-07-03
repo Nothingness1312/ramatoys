@@ -102,12 +102,12 @@ export default function AdminLogin() {
           </form>
 
           <div className="mt-6 p-4 bg-blue-50 rounded-lg">
-            <p className="text-sm text-blue-800 font-medium mb-2">Demo Credentials:</p>
+            <p className="text-sm text-blue-800 font-medium mb-2">.</p>
             <p className="text-sm text-blue-700">
-              Username: <code className="bg-blue-100 px-1 rounded">admin</code>
+              Username: <code className="bg-blue-100 px-1 rounded">.</code>
             </p>
             <p className="text-sm text-blue-700">
-              Password: <code className="bg-blue-100 px-1 rounded">ramatoys123</code>
+              Password: <code className="bg-blue-100 px-1 rounded">.</code>
             </p>
           </div>
         </CardContent>
