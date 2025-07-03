@@ -96,6 +96,7 @@ export default function HomePage() {
 
   const categories = [
     { id: "all", name: "Semua" },
+    { id: "SOON", name: "SOON" },
     { id: "robot", name: "Robot" },
     { id: "boneka", name: "Boneka" },
     { id: "lego", name: "Lego" },
